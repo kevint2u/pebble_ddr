@@ -1,0 +1,21 @@
+{
+  "uuid": "6d5f57f9-b01c-4a6a-2222-ec024d38ba41",
+  "shortName": "PPR",
+  "longName": "Pebble DDR",
+  "companyName": "Kevin Tu",
+  "versionCode": 2,
+  "versionLabel": "2.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+        {
+          "type": "png",
+          "name": "DDR_BG",
+          "file": "images/ddr_bg.png"
+        }
+      ]
+  }
+}
